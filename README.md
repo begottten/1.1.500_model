@@ -124,5 +124,5 @@
 
 ## Список литературы
 
-1. https://www.sinref.ru/000_uchebniki/04000pravo/150_lekcii_gos_regulir_04/748.htm
-2. http://www.rusnauka.com/3_ANR_2013/Informatica/4_125947.doc.htm
+1. **[Sinerf.ru](https://www.sinref.ru/000_uchebniki/04000pravo/150_lekcii_gos_regulir_04/748.htm)**   
+2. **[Rusnauka.ru](http://www.rusnauka.com/3_ANR_2013/Informatica/4_125947.doc.htm)**   
